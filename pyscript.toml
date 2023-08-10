@@ -1,0 +1,13 @@
+name = "BonMini"
+description = "This app is created for mini language translation to Chinese."
+version = "0.0.2"
+terminal = false
+packages = [
+    "/static/wheels/bonmini-0.0.2-py3-none-any.whl",
+    "/static/wheels/toga_core-0.3.1-py3-none-any.whl",
+    "/static/wheels/toga_web-0.3.1-py3-none-any.whl",
+    "/static/wheels/travertino-0.2.0-py3-none-any.whl",
+]
+
+[splashscreen]
+autoclose = true
